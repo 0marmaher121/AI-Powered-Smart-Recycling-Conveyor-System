@@ -34,9 +34,7 @@ The system analyzes objects moving on a conveyor belt and helps classify them in
 - Enhance sorting speed.
 - Add real-time system monitoring.
 
-## 👥 Contributors
 
-[Add team members here]
 
 ---
 

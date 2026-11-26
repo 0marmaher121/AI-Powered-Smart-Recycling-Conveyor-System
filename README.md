@@ -25,7 +25,6 @@ The system analyzes objects moving on a conveyor belt and helps classify them in
 - Artificial Intelligence (AI)
 - Computer Vision
 - Python
-- [Add other technologies used in your project]
 
 ## 🚀 Future Improvements
 
